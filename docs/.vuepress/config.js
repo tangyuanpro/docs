@@ -2,7 +2,7 @@ module.exports = {
   theme:"antdocs",
   title: "Yexi Docs",
   description: "好教程就在夜夕文库",
-  base: "/yxdocs/",
+  base: "/",
   head: [
     ["link",{ rel: "icon",href: "/assets/logo.png" }]
   ],
