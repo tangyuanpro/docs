@@ -1,7 +1,8 @@
 module.exports = {
   theme:"antdocs",
   title: "Yexi Docs",
-  description: "好教程就在夜夕文库",
+  lang: zh-CN,
+  description: "技术 生活 二次元",
   base: "/",
   head: [
     ["link",{ rel: "icon",href: "/assets/logo.png" }]
@@ -13,7 +14,7 @@ module.exports = {
     smoothScroll: true,
     nav: require("./config/nav"),
     sidebar: require("./config/sidebar"),
-    lastUpdated: "夜夕樱落的Github",
+    lastUpdated: "帮助我们编辑文档",
     repo: "https://github.com/tangyuanpro",
     editLinks: false,
   },
