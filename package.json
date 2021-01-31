@@ -1,7 +1,8 @@
 {
   "name": "templete",
   "version": "1.1.1",
-  "description": "A VuePress project created by vuepress-creator.",
+  "description": "夜夕樱落的文库",
+  "license": "MIT",
   "main": "index.js",
   "scripts": {
     "dev": "vuepress dev docs",
