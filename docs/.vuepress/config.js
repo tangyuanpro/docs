@@ -10,6 +10,19 @@ module.exports = {
     lineNumbers: false,
   },
   themeConfig: {
+    locales: {
+      '/': {
+        selectText: '语言',
+        label: '简体中文',
+        editLinkText: '在 GitHub 上编辑此页',
+        serviceWorker: {
+          updatePopup: {
+            message: "发现新内容可用.",
+            buttonText: "刷新"
+              }
+            }
+          }
+        },
     smoothScroll: true,
     nav: require("./config/nav"),
     sidebar: require("./config/sidebar"),
