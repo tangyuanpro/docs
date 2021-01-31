@@ -1,5 +1,6 @@
 module.exports = {
   theme:"antdocs",
+  lang: "zh-Hans",
   title: "Yexi Docs",
   description: "技术 生活 二次元",
   base: "/",
