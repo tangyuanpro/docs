@@ -1,6 +1,5 @@
 ---
 home: true
-heroImage: /assets/logo.png
 actionText: Go →
 actionLink: /category/
 features:
