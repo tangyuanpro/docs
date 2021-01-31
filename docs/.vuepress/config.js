@@ -13,7 +13,7 @@ module.exports = {
     smoothScroll: true,
     nav: require("./config/nav"),
     sidebar: require("./config/sidebar"),
-    lastUpdated: "帮助我们编辑文档",
+    lastUpdated: "最后一次编辑时间",
     repo: "https://github.com/tangyuanpro",
     editLinks: false,
   },
