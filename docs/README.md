@@ -3,6 +3,7 @@ home: true
 heroImage: /assets/logo.png
 actionText: Go →
 actionLink: /category/
+lang: zh-CN
 features:
 - title: 精
   details: 好文档，不将就
