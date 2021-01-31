@@ -30,10 +30,4 @@ module.exports = {
     repo: "https://github.com/tangyuanpro",
     editLinks: false,
   },
-  locales: {
-    '/': {
-      lang: 'zh-Hans',
-      description: '技术 生活 二次元'
-    }
-  },
 };
