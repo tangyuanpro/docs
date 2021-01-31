@@ -9,10 +9,10 @@
     "build": "vuepress build docs"
   },
   "keywords": [],
-  "author": "Feng L.H.",
+  "author": "夜夕樱落",
   "license": "MIT",
   "devDependencies": {
-    "vuepress": "^1.5.2"
+    "vuepress": "^1.8.0"
   },
   "dependencies": {
     "core-js": "^2.6.11",
