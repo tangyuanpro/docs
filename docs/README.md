@@ -3,7 +3,6 @@ home: true
 heroImage: /assets/logo.png
 actionText: Go →
 actionLink: /category/
-lang: zh-Hans
 features:
 - title: 精
   details: 技术生活二次元样样都有
