@@ -23,6 +23,12 @@ module.exports = {
             }
           }
         },
+  locales: {	
+    '/': {	
+      lang: 'zh-Hans',	
+      description: '技术 生活 二次元'	
+    }	
+  },
     smoothScroll: true,
     nav: require("./config/nav"),
     sidebar: require("./config/sidebar"),
