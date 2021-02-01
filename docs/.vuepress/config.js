@@ -5,7 +5,7 @@ module.exports = {
   description: "技术 生活 二次元",
   base: "/",
   head: [
-    ["link",{ rel: "icon",href: "/assets/logo.png" }]
+    ["link",{ rel: "icon",href: "https://cdn.jsdelivr.net/gh/tangyuanpro/pic/logo.png" }]
   ],
   markdown: {
     lineNumbers: false,
