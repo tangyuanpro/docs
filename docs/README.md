@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /assets/logo.png
+heroImage: https://cdn.jsdelivr.net/gh/tangyuanpro/pic/logo.png/
 actionText: Go →
 actionLink: /category/
 lang: zh-Hans
