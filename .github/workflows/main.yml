@@ -17,7 +17,7 @@ jobs:
           persist-credentials: false
 
       - name: Build
-        run: yarn install && yarn build
+        run: yarn init -y && yarn add -D vuepress && yarn run build
 
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@releases/v3
